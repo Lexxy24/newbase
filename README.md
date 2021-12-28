@@ -27,7 +27,7 @@ Simpel WhatsApp Bot
 
 ```
 > git clone https://github.com/Lexxy24/newbase
-> cd new base
+> cd newbase
 > npm install
 ```
 
