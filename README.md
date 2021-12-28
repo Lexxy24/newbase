@@ -13,6 +13,7 @@ Simpel WhatsApp Bot
 > pkg install libwebp -y
 > git clone https://github.com/Lexxy24/newbase
 > cd newbase
+> bash install.sh
 > npm start
 ```
 
@@ -29,6 +30,7 @@ Simpel WhatsApp Bot
 > git clone https://github.com/Lexxy24/newbase
 > cd newbase
 > npm install
+> npm start
 ```
 
 ---------
