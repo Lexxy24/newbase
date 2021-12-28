@@ -1,1 +1,1 @@
-worker: npm install && node main
+worker: npm start
